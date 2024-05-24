@@ -7,4 +7,4 @@ for(let n=1;n<=rows;n++){
     }
     pattern += ("\n");
 }
-console.log(pattern);  
+c
